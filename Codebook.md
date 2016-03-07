@@ -1,7 +1,4 @@
----
-title: "Codebook"
----
-
+#Codebook
 This codebook describes the original [accelerometer data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip), the variables, and the transformations that were performed to produce the cleaned up version of the data written to `tidyData.txt`.
 
 ##Data
